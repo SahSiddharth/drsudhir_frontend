@@ -31,7 +31,7 @@ const Header = () => {
             <div className="lg:flex lg:items-center lg:justify-between">
                 <div className="flex items-center justify-between">
                     <Link to="/">
-                        <h1 className='font-bold text-[30px] bg-gradient-to-r from-indigo-700 to-blue-500 bg-clip-text text-transparent'>Mr. Dipta</h1>
+                        <h1 className='font-bold text-[30px] bg-gradient-to-r from-indigo-700 to-blue-500 bg-clip-text text-transparent'>Dr. Sudhir</h1>
                     </Link>
                 </div>
 
