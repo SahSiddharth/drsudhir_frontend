@@ -15,7 +15,7 @@ const Dashboard = () => {
   const getPackageNumber = async () => {
     const {data} = await getTotalNumberOfPackages()
     setTotalNumbers({...totalNumbers,
-      packages: data.packages
+      packages: data.body
     })
   }
 
